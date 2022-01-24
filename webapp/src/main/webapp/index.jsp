@@ -31,9 +31,11 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
+
    <h1> Thankyou, Happy Learning </h1> <br>
   
     <h2> israel CH <h2>
+
 
   
 </form>
